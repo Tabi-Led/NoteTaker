@@ -1,0 +1,16 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "Note Taker Application\r Description\r The Note Taker is a dynamic web application that allows users to create, save, and manage their notes efficiently. Designed with simplicity and usability in mind, the application offers an intuitive interface for note management tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "uuid": "^9.0.1"
+  }
+}
