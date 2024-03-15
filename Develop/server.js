@@ -28,7 +28,7 @@ if (listOfNotes) {
     notes = JSON.parse(listOfNotes);
 }
 
-// displays notes
+// displays notes+
 app.get("/api/notes", function (req, res) {
     return res.json(notes);
 });
